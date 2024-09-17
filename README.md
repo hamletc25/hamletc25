@@ -1,16 +1,15 @@
-## Hi there 👋
+## 
 
 <!--
-**hamletc25/hamletc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hamletc25/hamletc25**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏻‍💻 Welcome to my personal repository!
+- 📰 I'm majoring in journalism and pursuing a minor in computer science.
+- 📚 I'm hoping to become more proficient at github.
+- 📖 Ask me what I'm reading currently!
+- 🏃🏻‍♀️ Some of my hobbies include running, reading and vintage shopping.
+- 🐶 I have a pet retriever named Finn.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have been skydiving!
