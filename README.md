@@ -1,7 +1,5 @@
 ## 
 
-## Here are some ideas to get you started:
-
 ## - 👩🏻‍💻 Welcome to my personal repository!
 ## - 📰 I'm majoring in journalism and pursuing a minor in computer science.
 ## - 📚 I'm hoping to become more proficient at github.
